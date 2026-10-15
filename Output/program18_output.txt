@@ -1,0 +1,2 @@
+Enter fruit color: red
+Possible fruit: Apple or Strawberry

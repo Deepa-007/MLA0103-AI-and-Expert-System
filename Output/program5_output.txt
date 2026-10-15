@@ -1,0 +1,1 @@
+Greedy path: ['A', 'C', 'E', 'F']

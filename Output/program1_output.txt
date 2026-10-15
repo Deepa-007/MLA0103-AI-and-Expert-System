@@ -1,0 +1,2 @@
+Enter goal node (F): F
+Shortest path: ['A', 'C', 'F']

@@ -1,0 +1,2 @@
+Enter bird name: sparrow
+sparrow can fly

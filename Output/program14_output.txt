@@ -1,0 +1,4 @@
+Enter age: 18
+Enter BMI: 32
+Condition (none/diabetes): none
+Consider personalized dietary guidance

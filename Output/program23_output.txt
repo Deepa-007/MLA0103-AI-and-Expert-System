@@ -1,0 +1,3 @@
+Derived: possible_hardware_fault
+Derived: check_hardware
+Final facts: {'computer_not_starting', 'power_connected', 'possible_hardware_fault', 'check_hardware'}

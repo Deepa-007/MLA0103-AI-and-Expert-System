@@ -1,0 +1,3 @@
+Income (low/high): high
+Credit history (good/bad): good
+Loan approved

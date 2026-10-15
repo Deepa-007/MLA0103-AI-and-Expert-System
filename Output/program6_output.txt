@@ -1,0 +1,2 @@
+Optimal path: ['A', 'B', 'D', 'F']
+Total cost: 6

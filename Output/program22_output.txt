@@ -1,0 +1,6 @@
+Initial state: Monkey is on the floor
+1. Monkey moves towards the box
+2. Monkey pushes the box under the banana
+3. Monkey climbs onto the box
+4. Monkey grabs the banana
+Goal achieved: Monkey gets the banana
