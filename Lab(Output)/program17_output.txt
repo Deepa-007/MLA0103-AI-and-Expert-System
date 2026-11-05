@@ -1,0 +1,5 @@
+Fever? (yes/no): yes
+Cough? (yes/no): no
+Sneezing? (yes/no): no
+Insufficient information
+This is an educational system, not a medical diagnosis.
